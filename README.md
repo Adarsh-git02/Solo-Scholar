@@ -1,1 +1,1 @@
-# Solo-Scholar
+Solo Scholar
